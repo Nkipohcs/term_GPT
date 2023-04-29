@@ -1,6 +1,5 @@
 Python qui peut interagir avec l'API ChatGPT directement dans le terminal :
 
-```
 import requests
 
 # URL de l'API ChatGPT
@@ -21,6 +20,3 @@ while True:
     user_input = input("Vous: ")
     response = get_response(user_input)
     print("ChatGPT: ", response)
-```
-
-Dans ce programme, nous utilisons la bibliothèque de requêtes Python pour envoyer une requête POST à l'API ChatGPT en utilisant l'URL et les paramètres spécifiés. Nous utilisons également un jeton d'
