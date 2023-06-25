@@ -1,4 +1,4 @@
-Python qui peut interagir avec l'API ChatGPT directement dans le terminal :
+#Python qui peut interagir avec l'API ChatGPT directement dans le terminal :
 
 import requests
 
